@@ -4,7 +4,6 @@ Founder of **Huluku Labs**.
 
 We build AI products and infrastructure for the next generation of work.
 
-* 📚 **Book Blaster** — AI-powered marketing for authors
 * 🤖 Building agents and automation that replace repetitive work
 * ⚡ Developing AI infrastructure, GPU compute, data centers, and digital twins
 * 🧠 Interested in agentic systems, distributed computing, NVIDIA infrastructure, energy, and applied AI
